@@ -1,3 +1,5 @@
+//ez itt az elso sor
+
 package hu.bme.mit.spaceship;
 
 import java.util.Random;
