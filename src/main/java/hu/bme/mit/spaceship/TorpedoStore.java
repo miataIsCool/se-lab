@@ -1,4 +1,5 @@
 //ez itt az elso sor
+//ez mar a masodik
 
 package hu.bme.mit.spaceship;
 
